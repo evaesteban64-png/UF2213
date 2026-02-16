@@ -12,7 +12,9 @@ En esta unidad, se explorará el origen y el concepto de las bases de datos, as�
   style="display: block; margin: 0 auto;"
 />
 
+Concepto y origen de las BD y los SGBD:
 
+Las bases de datos (BD) son sistemas informáticos diseñados para almacenar, organizar y recuperar grandes cantidades de datos de manera eficiente. Los sistemas de gestión de bases de datos (SGBD) son programas que permiten gestionar y manipular los datos almacenados en una BD. El origen de las BD y los SGBD se remonta a los años 60, cuando se hizo evidente la necesidad de almacenar grandes cantidades de datos de manera más eficiente y segura que en los archivos de papel tradicionales. Los primeros sistemas de BD eran muy simples y estaban diseñados para su uso en aplicaciones específicas, pero con el tiempo se desarrollaron SGBD más sofisticados y flexibles capaces de manejar grandes volúmenes de datos y de ofrecer funcionalidades avanzadas. Actualmente, los SGBD son una herramienta fundamental en la gestión de datos en todo tipo de organizaciones y en la mayoría de las aplicaciones informáticas.
 
 <img 
   src="https://files.catbox.moe/j4picy.jpg" 
