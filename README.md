@@ -2,6 +2,18 @@
 ## UF2213: MODELOS DE DATOS Y VISIÓN CONCEPTUAL DE UNA BASE DE DATOS
 ## UD2 Introducción a las Bases de Datos
 ### 1. Introducción
+
+En esta unidad, se explorará el origen y el concepto de las bases de datos, así como la evolución de los sistemas gestores de bases de datos. Se abordarán los objetivos y servicios a los que están orientadas las bases de datos. Finalmente, se realizará una descripción de varios tipos de modelos que pueden encontrarse, aunque se focalizará la atención en el modelo relacional, dada su amplia popularidad y reconocimiento en la actualidad.  
+
+<img 
+  src="https://iili.io/qdKqXRf.png" 
+  alt="image host" 
+  width="500" 
+  style="display: block; margin: 0 auto;"
+/>
+
+
+
 <img 
   src="https://files.catbox.moe/j4picy.jpg" 
   alt="image host" 
